@@ -4,11 +4,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Demo Web :: Grade Converter Heroku 1</title>
+<title>Demo Web :: Grade Converter Heroku 2</title>
 </head>
 <body>
 
-   <h1>Demo Web :: Grade Converter Heroku 1</h1>
+   <h1>Demo Web :: Grade Converter Heroku 2</h1>
 
 	<form action="/grade/convert">
 		Score :: <input type="text" id="score" name="score"> <input
